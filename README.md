@@ -8,7 +8,7 @@
 - Empowering underrepresented communities through tech
 
 #### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/katemae/)  
+- [LinkedIn](https://www.linkedin.com/in/katelynmaea/)  
 - Email: kate.abille@gmail.com  
 
 #### ⚡ Fun fact:
