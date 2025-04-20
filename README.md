@@ -1,4 +1,4 @@
-## Hi 👋 I'm Katelyn!
+## Hiya 👋 I'm Katelyn!
 
 🎓 I'm a Data Science major at UC San Diego (Class of 2025)
 
