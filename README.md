@@ -1,16 +1,17 @@
 ## Hi 👋 I'm Katelyn!
 
-🎓 I'm a Data Science major at UC San Diego (Class of 2025), passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility.
+🎓 I'm a Data Science major at UC San Diego (Class of 2025)
 
-🌟 Interests:
+#### 🌟 Interests:
+🧠 I'm passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility.
 - Ethical AI & Responsible Data Science
 - Empowering underrepresented communities through tech
 
-📫 How to reach me:
+#### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/katemae/)  
 - Email: kate.abille@gmail.com  
 
-⚡ Fun fact:
+#### ⚡ Fun fact:
 When I'm not coding, I love mentoring students, exploring boba cafes, and staying up way too late playaing FFXIV!
 
 ---
