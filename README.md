@@ -3,7 +3,7 @@
 🎓 I'm a Data Science major at UC San Diego (Class of 2025)
 
 #### 🌟 Interests:
-🧠 I'm passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility.
+I'm passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility.
 - Ethical AI & Responsible Data Science
 - Empowering underrepresented communities through tech
 
@@ -21,7 +21,7 @@ When I'm not coding, I love mentoring my students, exploring boba cafes, and sta
 
 # 💻 Tech Stack
 
-## 📊 Data Science and Machine Learning
+## 🧠 Data Science and Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
