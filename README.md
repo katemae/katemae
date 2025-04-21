@@ -12,7 +12,7 @@
 - Email: kate.abille@gmail.com  
 
 #### ⚡ Fun fact:
-When I'm not coding, I love mentoring students, exploring boba cafes, and staying up way too late playaing FFXIV!
+When I'm not coding, I love mentoring my students, exploring boba cafes, and staying up way too late playing FFXIV!
 
 ---
 
