@@ -15,7 +15,7 @@ I'm passionate about sustainable ML-AI and using data to drive innovation, trans
 
 
 #### ⚡ Fun fact:
-When I'm not coding, I love mentoring my students, exploring boba cafes, and staying up way too late playing FFXIV!
+When I'm not coding, I love mentoring my students, playing with my cats, and staying up way too late playing FFXIV!
 
 ---
 
