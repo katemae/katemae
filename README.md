@@ -1,7 +1,7 @@
 ## Hi! I'm Katelyn 😊
 🎓 Recent Data Science graduate from UC San Diego (Class of 2025) <br>
 🧠 Currently pursuing an M.S. in Computer Science at the University of Illinois Urbana-Champaign (Fall 2025 cohort) <br>
-✨Passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility.
+✨ Passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility.
 
 When I'm not coding, I love mentoring my students, playing with my cats, and staying up way too late playing modded Minecraft or FFXIV!
 
