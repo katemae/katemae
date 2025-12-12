@@ -1,14 +1,12 @@
 ## Hi! I'm Katelyn 😊
-🎓 Recent Data Science graduate from UC San Diego (Class of 2025) <br>
-🧠 Currently pursuing an M.S. in Computer Science at the University of Illinois Urbana-Champaign (Fall 2025 cohort) <br>
-✨ Passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility.
+🎓 B.S. Data Science from UC San Diego (Class of 2025) <br>
+👩🏽‍💻 Currently pursuing an MCS with the University of Illinois Urbana-Champaign <br>
+🌿 Passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility. <br>
+💼 I'm currently interning with **Y Montessori**, working to combine my passion for ethical data science and educational equity. You can learn more about [my work with the data team](https://ymontessori.com/data) here, which explores Montessori schools, demographic insights, and more!
 
-When I'm not coding, I love mentoring my students, playing with my cats, and staying up way too late playing modded Minecraft or FFXIV!
 
-#### 💼 Current Internship
-I'm currently interning with **Y Montessori**, working to combine my passion for ethical data science and educational equity. You can learn more about [my work with the data team](https://ymontessori.com/data) here, which explores Montessori schools, demographic insights, and more!
+When I'm not coding, I love mentoring my students, playing with my cats, and staying up playing modded Minecraft or FFXIV!
 
-#### 📫 How to reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/katelynmaea/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:kate.abille@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -16,9 +14,9 @@ I'm currently interning with **Y Montessori**, working to combine my passion for
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-## 🧠 Data Science and Machine Learning
+## 🤖 Data Science and Machine Learning
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -38,7 +36,7 @@ I'm currently interning with **Y Montessori**, working to combine my passion for
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
-## 🛢️ Databases and Development
+## 📊 Databases and Development
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -56,11 +54,9 @@ I'm currently interning with **Y Montessori**, working to combine my passion for
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=katemae&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=katemae&theme=dark&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katemae&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katemae&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- created with help from GPRM ( https://gprm.itsvg.in ) -->
