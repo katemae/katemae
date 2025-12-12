@@ -1,6 +1,6 @@
 ## Hi! I'm Katelyn 😊
 🎓 B.S. Data Science from UC San Diego (Class of 2025) <br>
-👩🏽‍💻 Currently pursuing an MCS with the University of Illinois Urbana-Champaign <br>
+👩🏽‍💻 Currently pursuing an MCS with UI Urbana-Champaign <br>
 🌿 Passionate about sustainable ML-AI and using data to drive innovation, transparency, and accessibility. <br>
 💼 I'm currently interning with **Y Montessori**, working to combine my passion for ethical data science and educational equity. You can learn more about [my work with the data team](https://ymontessori.com/data) here, which explores Montessori schools, demographic insights, and more!
 
